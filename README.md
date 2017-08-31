@@ -1,0 +1,1 @@
+"# AndroidTemplate by Android Studio" 
